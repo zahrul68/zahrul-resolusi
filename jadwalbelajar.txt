@@ -8,6 +8,9 @@ Menggunakan Metode Pomodoro yang mana 50 menit untuk fokus dan 10 menit untuk is
 10:00-11:00 = coffee break
 11:00-12:00 = pomodoro  sesi ketiga
 12:00-13:00 = isoma
+13:00-14:00 = pomodoro 50/10 sesi keempat
+14:00-15:00 = pomodoro 50/10 sesi kelima
+15:00-16:00 = isongem, istirahat solat ngemil
 16:00-18:00 = free time(nonton netflix/nonton course yt)
-18:00-19:30 = magrib-isya, workout dirumah
+18:00-19:30 = magrib-isya
 20:00 - bobo = nyelesain tugas-tugas yg blm selesai
