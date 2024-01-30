@@ -10,3 +10,7 @@ Rabu : Reading Comprehentsion
 ~Membaca artikel berbahasa inggris
 ~Menyimpulkan poin-poin utama dari artikel tersebut
 ~Mempelajari vocab baru dari artikel tersebut
+Jumat: Writing
+~Memilih topik writing tertentu
+~Menulis beberapa pargraf tentang topik tersebut
+~Meninjau tulisan dan penggunaan grammar
